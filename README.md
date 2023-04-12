@@ -1,4 +1,4 @@
-# textadventure-example
+# Lost in the Jungle
 sugar's text adventure game to use as example for basic class
 
 User is suddenly teleported into the middle of the jungle and has until nighttime to find their way out!
